@@ -1,0 +1,14 @@
+model\entities\User$Builder.class
+filter\LogFilter.class
+model\entities\User.class
+servlets\RegisterServlet.class
+model\dao\GenericDao.class
+model\dao\DaoFactory.class
+jdbc\Database.class
+model\dao\JdbcDaoFactory.class
+servlets\FirstServlet.class
+servlets\SecondServlet.class
+model\dao\UserDao.class
+model\entities\Address.class
+jdbc\SQL.class
+model\services\UserService.class
