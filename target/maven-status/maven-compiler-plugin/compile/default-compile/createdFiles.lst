@@ -10,5 +10,6 @@ servlets\FirstServlet.class
 servlets\SecondServlet.class
 model\dao\UserDao.class
 model\entities\Address.class
+jdbc\Main.class
 jdbc\SQL.class
 model\services\UserService.class
